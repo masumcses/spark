@@ -1,7 +1,7 @@
 <?xml version="1.0" ?> 
 <project name="spark" default="war">
 	
-	<property name="deploy.path" value="F:\Dev-EJB extension\Setup\apache-tomcat-7.0.37\webapps"/>
+	<property name="deploy.path" value="C:\apache-tomcat-7.0.37\webapps"/>
 
 	<path id="compile.classpath">
 		<fileset dir="WebContent/WEB-INF/lib">
